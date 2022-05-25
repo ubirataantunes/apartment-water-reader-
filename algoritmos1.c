@@ -25,7 +25,8 @@ void main() {
 		system("cls");
 	}
 	printf("Apartamento com maior gasto:  %d\n\n", apartamentomaiorgasto);
-	printf("Quantia gasta em metros cubicos de agua pelo apartamento:  %.3f", maiorgasto);
+	printf("Quantia gasta em metros cubicos de agua pelo apartamento:  %.3f\n", maiorgasto);
+	getche();
 }
 
 
